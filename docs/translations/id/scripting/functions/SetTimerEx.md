@@ -65,7 +65,7 @@ Variabel ID Timer harus diinisialisasi ke -1 jika memungkinkan untuk meminimalka
 
 ## Fungsi Terkait
 
-- [SetTimer](SetTimer): Set timer.
+- [SetTimer](SetTimer): Fungsi untuk set timer.
 - [KillTimer](KillTimer): Mematikan timer.
 - [CallLocalFunction](CallLocalFunction): Panggil fungsi dalam skript.
 - [CallRemoteFunction](CallRemoteFunction): Panggil fungsi dalam skrip apa pun yang dimuat.

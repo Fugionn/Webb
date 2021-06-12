@@ -44,4 +44,4 @@ Interval pengatur waktu tidak akurat (kurang lebih 25%). Ada perbaikan yang ters
 ## Fungsi Terkait
 
 - [SetTimerEx](SetTimerEx): Mengatur sebuah timer menggunakan parameters.
-- [KillTimer](KillTimer): Menghentikan a timer.
+- [KillTimer](KillTimer): Funsgi untuk menghentikan a timer.
