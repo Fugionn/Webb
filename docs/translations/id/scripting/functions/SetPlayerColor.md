@@ -33,6 +33,6 @@ Fungsi ini akan mengubah warna pemain untuk semua pemain, bahkan jika warna pema
 
 ## Fungsi Terkait
 
-- [SetPlayerMarkerForPlayer](SetPlayerMarkerForPlayer): Fungsi untuk set marker pemain.
+- [SetPlayerMarkerForPlayer](SetPlayerMarkerForPlayer): Untuk set marker pemain.
 - [GetPlayerColor](GetPlayerColor): Cek warna player.
 - [ChangeVehicleColor](ChangeVehicleColor): Mengubah warna kendaraan.

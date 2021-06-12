@@ -40,7 +40,7 @@ Nama pemain bisa sampai 24 karakter (0.3d R2) dengan menggunakan SetPlayerName. 
 
 ## Fungsi Terkait
 
-- [SetPlayerName](SetPlayerName): Fungsi untuk set nama player.
+- [SetPlayerName](SetPlayerName): Untuk set nama player.
 - [GetPlayerIp](GetPlayerIp): Mendapatkan IP Pemain
 - [GetPlayerPing](GetPlayerPing): Mendapatkan Ping Pemain
 - [GetPlayerScore](GetPlayerScore): Mendapatkan score pemain.
